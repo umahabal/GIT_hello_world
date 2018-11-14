@@ -23,6 +23,8 @@
     [super viewWillAppear:animated];
 }
 
+// All view login will go here
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
